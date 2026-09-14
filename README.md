@@ -33,7 +33,7 @@ I am a web application development professional with strong programming skills, 
 ![NetSuite](https://img.shields.io/badge/NetSuite-005571?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorPerezz19&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=VictorPerezz19&theme=tokyonight)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-perez-martinez-2666a336a)
