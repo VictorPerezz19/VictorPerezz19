@@ -33,4 +33,4 @@ I am a web application development professional with strong programming skills, 
 ![NetSuite](https://img.shields.io/badge/NetSuite-005571?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-perez-martinez-2666a336a](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A9rez-mart%C3%ADnez-2666a336a/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A9rez-mart%C3%ADnez-2666a336a/)
