@@ -7,8 +7,6 @@ I am a web application development professional with strong programming skills, 
 - 💻 Graduated in Web Application Development from Valle del Miro, specializing in both frontend and backend technologies with a strong focus on user experience.
 - 💼 Recently worked as an ERP & Automation Consultant at BIT Technologies, where I developed bidirectional APIs for NetSuite and automated processes using n8n webhooks.
 - 🧠 Certified in Responsible AI & Prompt Engineering (Founderz & Microsoft), alongside specific training in n8n automation and NetSuite fundamentals.
-- 🚁 Always exploring new tech: I enjoy working on diverse side projects, from developing interactive 2D games to exploring systems engineering concepts involving UAV drone patrols, Raspberry Pi, and mesh networks.
-- 🏒 Outside the terminal: I am a former Professional Ice Hockey Player in the Spanish National League and an Ice Skating Instructor. I also work as a Private Guitar Teacher (jamming out on my Fender Stratocaster or Epiphone acoustic) and love following the ATP tennis tour.
 
 ### 🛠️ Tech Stack & Skills
 
@@ -25,7 +23,7 @@ I am a web application development professional with strong programming skills, 
 ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=json&logoColor=white)
-*(Also experienced in ObjectDB, SQL Server, XML, JSON, and Markdown)*
+*(Also experienced in SQL Server, XML, JSON, and Markdown)*
 
 **Tools & Automation:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
