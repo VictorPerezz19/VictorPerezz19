@@ -4,7 +4,7 @@ I am a **Web Application Development** professional and **Big Data & Artificial 
 
 ### 🚀 About Me
 - 🎓 Currently pursuing a **Master's in Big Data & Artificial Intelligence** at **Tajamar** (2026–2027), focusing on Cloud Infrastructure, data extraction and processing, and deploying traditional and generative AI models for enterprise environments.
-- 🏆 **Microsoft Certified: SQL AI Developer Associate (DP-800)** & **Harvard CS50x** graduate. *(Currently preparing for **DP-750**: Implement Data Engineering Solutions Using Azure Databricks).*
+- 🏆 **Microsoft Certified: SQL AI Developer Associate (DP-800)** & **Harvard CS50x** graduate.
 - 💼 Recently worked as an **ERP & Automation Consultant** at **BIT Technologies GmbH**, developing bidirectional REST APIs and SuiteScript customizations for NetSuite, executing SQL data migrations, and automating workflows with **n8n** webhooks.
 - 💻 Graduated in **Web Application Development (DAW)** from **IES Valle del Miro**, specializing in frontend and backend technologies with a strong focus on clean code and user experience.
 - 🏒 Professional Ice Hockey Player in the **Spanish National League** & Guitar/Skating Instructor—bringing leadership, tactical discipline, teamwork, and clear communication to every project.
